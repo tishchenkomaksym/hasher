@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/tishchenkomaksym/hasher/pkg/hasher"
+	"github.com/tishchenkomaksym/hasher/tree/master/pkg/hasher"
 )
 
 //Package hasher implements 2 functions:

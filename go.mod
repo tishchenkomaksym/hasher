@@ -1,4 +1,4 @@
-module github.com/tishchenkomaksym/hasher
+module github.com/tishchenkomaksym/hasher/tree/master
 
 go 1.17
 
