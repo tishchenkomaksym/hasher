@@ -1,4 +1,4 @@
-module hasher
+module github.com/tishchenkomaksym/hasher
 
 go 1.17
 
