@@ -5,9 +5,6 @@ import (
 	"github.com/tishchenkomaksym/hasher/tree/master/pkg/hasher"
 )
 
-//Package hasher implements 2 functions:
-//HashPassword(password string) (string, error),
-//CheckPasswordHash(password, hash string) bool
 
 func main() {
 
